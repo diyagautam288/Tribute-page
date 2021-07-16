@@ -1,0 +1,59 @@
+html{
+  font-size: 10px;
+}
+body{
+  text-align: center;
+  color: #333;
+  margin: 0;
+  font-family:  Segoe UI, sans-serif;
+  line-height: 1.5;
+   font-size: 1.6rem;
+}
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+#main {
+  padding: 15px;
+  margin: 30px 10px;
+  background: #eee;
+  border-radius: 3px;
+}
+#img-div {
+  background: #fff;
+  padding: 10px;
+  margin: 0;
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  height: auto;
+}
+#img-caption {
+  margin: 15px 0 7px 0;
+}
+#heading {
+  margin: 45px 0;
+}
+ul {
+  max-width: 42%;
+  text-align: left;
+  margin: 0 auto 45px auto;
+  line-height: 1.5;
+}
+li {
+  margin: 15px 0;
+}
+#line{
+  max-width: 42%;
+  text-align: left;
+  font-style: italic;
+  margin: 0 auto 45px auto;
+}
+a{
+  color:#4376a0;
+}
+a:visited {
+  color: #705f8b;
+}
